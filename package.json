@@ -1,0 +1,17 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Discord clone",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "satish nagraj",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.5",
+    "@tailwindcss/vite": "^4.1.5",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.5"
+  }
+}
